@@ -2,7 +2,8 @@
 
 | `Back-end` | `Redis` |
 
-![meme](images/meme.png)
+
+![redis](https://github.com/Laban254/alx-backend-storage/assets/64686919/f37d15e9-4433-4afa-80c8-4213634d5aa6)
 
 ## Resources
 
